@@ -19,6 +19,84 @@
         white-space: nowrap;
         width: 160%;
     }
+    .community{
+        text-align: center;
+    }
+    .build{
+        margin-top: 7%;
+        font-size: 200%;
+    }
+    .huddle{
+        width: 32%;
+        text-align: center;
+        margin-left: 33%;
+    }
+    .btn.btn-primary.button2{
+        border-radius: 25px;
+        padding: 0.7%;
+        width: 20%;
+        border: 1px solid;
+        box-shadow: 10px 10px 10px 10px;
+        height: 50px;
+    }
+    .mockups{
+        justify-content: center;
+        margin-top: 5%;
+        margin-left: 18%;
+    }
+    .mockup{
+        width: 80%;
+    }
+    .section2{
+        display: flex;
+        width: 80%;
+        justify-content: space-between;
+        margin-left: 5%;
+        padding: 5%;
+    }
+    .topsection{
+        height: 300px;
+        width: 100%;
+    }
+    .bottomsection{
+        height: 300px;
+        width: 100%;
+    }
+    .position1{
+        position: relative;
+    }
+    .position2{
+        position: absolute;
+        width: 30%;
+        bottom: -170%;
+        left: 10%;
+    }
+    .position3{
+        position: absolute;
+        width: 30%;
+        bottom: -170%;
+        left: 70%;
+    }
+    .grow{
+        width: 70%;
+    }
+    .div5{
+        display: flex;
+    }
+    .newsection{
+        display: flex;
+        justify-content: space-between;
+    }
+    .Flowing{
+        display: flex;
+        justify-content: space-between;
+    }
+    .conversation{
+        width: 45%;
+    }
+    .newtext{
+        width: 30%;
+    }
 
 }
 @media (max-width: 1200px) {
